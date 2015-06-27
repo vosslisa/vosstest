@@ -1,2 +1,2 @@
 # vosstest
-test repository where i gry stuff
+test repository where i try stuff
